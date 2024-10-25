@@ -158,9 +158,9 @@ Features:
 ## 🌐 Network Connections
 
 <p align="left">
-<a href="https://securityportfolio.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://robasahmedshah.github.io/securityportfolio.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="https://github.com/RobasAhmedShah" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/robas-ahmed-shah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/robas-ahmed-shah-b75491218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ## 📫 Secure Communication Channels
