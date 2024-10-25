@@ -1,3 +1,5 @@
+<div style="border: 2px solid #42a5f5; padding: 15px; border-radius: 10px; box-shadow: 0 0 10px rgba(66, 165, 245, 0.6);">
+
 <div align="center">
   <img src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" width="70%" alt="Matrix Background">
 </div>
@@ -186,6 +188,8 @@ Features:
 ```
 
 <div align="center" style="width: 50%;">
+
+  </div>
   <img src="https://steamuserimages-a.akamaihd.net/ugc/88220693549870844/9A5C231D64922F66E8E7B953CC5008CBE6AAA461/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width: 50%;" alt="Image">
 </div>
 
