@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&color=FF0000&size=25&center=true&vCenter=true&width=600&lines=Hello+Friend...;Welcome+to+my+digital+space+%F0%9F%92%BB;System+status%3A+BREACHED;Accessing+main+directory...;Loading+profile..." />
 </div>
 
+![](https://komarev.com/ghpvc/?username=robasahmedshah&color=grey)
+
 
 
 ```bash
@@ -69,11 +71,32 @@ Status: available for work
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p> ```
 
+
+![Service Status](https://img.shields.io/badge/service-up-brightgreen)
+
+
+
 ## 📊 System Analytics
+[![TryHackMe Badge](https://tryhackme.com/api/badge/user/746428)](https://tryhackme.com/p/746428)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robasahmedshah&show_icons=true&theme=dark)
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobasAhmedShah&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=FF0000&fire=FF0000&currStreakLabel=00FF00" />
 </div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=robasahmedshah" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robasahmedshah&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+
+
+
 
 ## 🛡️ Security Projects [classified]
 
