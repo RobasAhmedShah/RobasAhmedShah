@@ -23,7 +23,7 @@ Robas Ahmed Shah
 > cat profile.txt
 Cyber Security Student - FAST NUCES
 Location: /root/workspace/security
-Status: Always vigilant, never compliant
+Status: available for work
 ```
 
 <div align="center">
@@ -138,7 +138,7 @@ Features:
 📱 +92-3003626836
 </pre>
 
-## 🤝 Join The Revolution
+## 🤝 Connect with me
 
 <div align="center">
   <a href="mailto:robasahmedshah@gmail.com"><img src="https://img.shields.io/badge/Initiate_Contact-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
