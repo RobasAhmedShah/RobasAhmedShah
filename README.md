@@ -78,7 +78,8 @@ Status: available for work
 
 ## 📊 System Analytics
 
-![tryhackme stats](https://raw.githubusercontent.com/RobasAhmedShah/RobasAhmedShah/master/assets/thm_propic.png)
+![TryHackMe Badge](./assets/thm_propic.png)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robasahmedshah&show_icons=true&theme=dark)
 
