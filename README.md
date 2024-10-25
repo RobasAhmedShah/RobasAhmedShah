@@ -152,7 +152,6 @@ Features:
 
 ```bash
 > cat /root/achievements.txt
-[√] CVE-2023-XXXXX: Facebook Account Recovery Headers Vulnerability
 [√] NCCS Pakistan Cybersecurity Cup: Runner-up
 [√] Procom Blockchain Competition: Champion
 [√] FAST NUCES Wall of Achievers: Featured
