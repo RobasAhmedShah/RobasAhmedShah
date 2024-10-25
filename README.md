@@ -188,16 +188,15 @@ Features:
 
 <div align="center" style="width: 50%;">
 <a>
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31d5khp5x7kjbc73glw5jdsuzmn4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31d5khp5x7kjbc73glw5jdsuzmn4&redirect=true)
 
-
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31d5khp5x7kjbc73glw5jdsuzmn4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31d5khp5x7kjbc73glw5jdsuzmn4&redirect=true)
 </a>
-<a>
-  </div>
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/88220693549870844/9A5C231D64922F66E8E7B953CC5008CBE6AAA461/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width: 50%;" alt="Image">
-</div>
-<\a>
 
+
+  <div align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/88220693549870844/9A5C231D64922F66E8E7B953CC5008CBE6AAA461/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width: 50%;" alt="Image">
+  </div>
 
 
 ---
