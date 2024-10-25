@@ -28,9 +28,10 @@ Robas Ahmed Shah
 
 > cat profile.txt
 Cyber Security Student - FAST NUCES
-Location: /root/workspace/security
+Location: Asia/Pakistan/Karachi
 Status: available for work
 ```
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFheWgyczBvNnBpZXBzNzVlbmxxeGptOGt1NWh4YnB4aWF0aHd2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width="400">
