@@ -21,7 +21,7 @@
 Robas Ahmed Shah
 
 > cat profile.txt
-Cybersecurity Analyst | Penetration Tester | Digital Forensics Expert
+Cyber Security Student - FAST NUCES
 Location: /root/workspace/security
 Status: Always vigilant, never compliant
 ```
@@ -35,15 +35,30 @@ Status: Always vigilant, never compliant
 ```bash
 > sudo apt-get install essential-skills
 ```
+🔒 Cybersecurity Skills
+<p align="left"> <img src="https://img.shields.io/badge/-Penetration_Testing-red?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/-Network_Security-00FF00?style=for-the-badge&logo=cisco&logoColor=black" /> <img src="https://img.shields.io/badge/-Digital_Forensics-800080?style=for-the-badge&logo=forensics&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Blockchain_Audit-4B0082?style=for-the-badge&logo=ethereum&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Hyperledger_Fabric-FF5733?style=for-the-badge&logo=hyperledger&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cryptography-FFD700?style=for-the-badge&logo=crypto&logoColor=black" />
+  <p
+  
+🐍 Programming Skills
+<p align="left"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-FE7E02?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Penetration_Testing-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network_Security-00FF00?style=for-the-badge&logo=cisco&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Digital_Forensics-800080?style=for-the-badge&logo=forensics&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+📊 Tools & Technologies
+
+<p align="left"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Scapy-FFD700?style=for-the-badge&logo=python&logoColor=black" />
-</p>
+ <img src="https://img.shields.io/badge/-Autopsy-2E4D2B?style=for-the-badge&logo=autopsy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DiskImager-FFA500?style=for-the-badge&logo=disks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF5733?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-00BFFF?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ghidra-007ACC?style=for-the-badge&logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p> ```
 
 ## 📊 System Analytics
 
