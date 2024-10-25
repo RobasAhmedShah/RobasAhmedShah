@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" width="100%" alt="Matrix Background">
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&color=FF0000&size=25&center=true&vCenter=true&width=600&lines=Hello+Friend...;Welcome+to+my+digital+space+%F0%9F%92%BB;System+status%3A+BREACHED;Accessing+main+directory...;Loading+profile..." />
 </div>
 
