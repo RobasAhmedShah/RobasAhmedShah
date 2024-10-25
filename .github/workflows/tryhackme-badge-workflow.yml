@@ -1,23 +1,33 @@
-name: TryHackMe Update Badge
+name: TryHackMe Badge Updater
 
 on:
   schedule:
-    # Make it run every 24 hour
+    # Runs every day at midnight UTC
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch:  # Allows manual triggering
+
 jobs:
-  tryhackme-badge-update:
-    name: Update this repo's tryhackme badge with the latest tryhackme image badge
+  update-tryhackme-badge:
+    name: Update TryHackMe Badge Image
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: p4p1/tryhackme-badge-workflow@main
-        with:
-          # Replace with your tryhackme username
-          username: "RobasAhmedShah"
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Do not paste your github token here - this is a placeholder
-          image_path: "./assets/thm_propic.png"
-          committer_username: "badge-bot"
-          committer_email: "badge-bot@thm.com"
-          commit_message: "Updated TryHackMe profile badge"                                      # and will pull your github token automatically
-          
+      # Step 1: Check out the repo
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Download the latest badge image
+      - name: Fetch TryHackMe Badge Image
+        run: |
+          curl -o ./assets/thm_propic.png https://tryhackme-badges.s3.amazonaws.com/RobasAhmedShah.png
+
+      # Step 3: Commit and push the updated badge image
+      - name: Commit and Push Badge Update
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add ./assets/thm_propic.png
+          git commit -m "Updated TryHackMe badge image"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
