@@ -134,11 +134,12 @@ Features:
 > echo "We are fsociety"
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG01ZGR1Z2ltcWN1NjBmM3Y3Y2oyeHBxNm41amF6NHBxdWFxd2pvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZEB6yFbLnhyQf7g3hn/giphy.gif" width="150">
+<div align="center" style="width: 50%;">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/88220693549870844/9A5C231D64922F66E8E7B953CC5008CBE6AAA461/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width: 50%;" alt="Image">
 </div>
 
 ---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RobasAhmedShah&label=Systems+Breached&color=FF0000&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=RobasAhmedShah&label=Systems+Breached&color=FF0000&style=flat" alt="Profile views" >
 </div>
