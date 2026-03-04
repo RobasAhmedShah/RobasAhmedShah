@@ -1,7 +1,7 @@
 
 <img src="./assets/hey-there.svg?v=1" width="100%" alt="Hey there" />
 
-# 𝐑𝐨𝐛𝐚𝐬 𝐀𝐡𝐦𝐞𝐝 𝐒𝐡𝐚𝐡 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26" alt="Hi" />
+# About me <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26" alt="Hi" />
 <br clear="right" />
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="50%" alt="Night view" />
