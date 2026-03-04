@@ -1,36 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="155" viewBox="0 0 560 155" role="img" aria-label="AutoBot card">
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="190" viewBox="0 0 580 190"
+     role="img" aria-label="AutoBot repository card">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#7C3AED"/>
-      <stop offset="50%" stop-color="#06B6D4"/>
-      <stop offset="100%" stop-color="#22C55E"/>
+    <!-- Card background gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#0F1117"/>
+      <stop offset="100%" stop-color="#161B27"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000" flood-opacity="0.35"/>
+    <!-- Top accent bar -->
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#F7DF1E" stop-opacity="0.9"/>
+      <stop offset="60%"  stop-color="#F7DF1E" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#F7DF1E" stop-opacity="0"/>
+    </linearGradient>
+    <!-- Glow behind repo name -->
+    <radialGradient id="glow" cx="0" cy="0.5" r="0.6">
+      <stop offset="0%"   stop-color="#F7DF1E" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#F7DF1E" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Divider fade -->
+    <linearGradient id="div" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#374151"/>
+      <stop offset="100%" stop-color="#374151" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#000" flood-opacity="0.5"/>
     </filter>
+    <clipPath id="clip"><rect width="580" height="190" rx="18"/></clipPath>
   </defs>
 
-  <rect x="0" y="0" width="560" height="155" rx="16" fill="#0D1117" stroke="#1F2937" filter="url(#shadow)"/>
-  <rect x="0" y="0" width="560" height="4" rx="16" fill="url(#g)"/>
+  <!-- Card body -->
+  <rect width="580" height="190" rx="18" fill="url(#bg)" stroke="#1F2937" stroke-width="1" filter="url(#shadow)"/>
 
-  <g font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" fill="#E5E7EB">
-    <text x="18" y="38" font-size="22" font-weight="700">AutoBot</text>
+  <!-- Subtle glow wash top-left -->
+  <rect width="580" height="190" rx="18" fill="url(#glow)" clip-path="url(#clip)"/>
 
-    <text x="18" y="64" font-size="13" fill="#9CA3AF"></text>
+  <!-- Accent bar (top edge, tapers to transparent) -->
+  <rect x="0" y="0" width="580" height="3.5" rx="18" fill="url(#bar)" clip-path="url(#clip)"/>
 
-    <g>
-      <text x="18" y="98" font-size="12" fill="#9CA3AF">Last commit</text>
-      <text x="18" y="118" font-size="14" font-weight="600">oh my repo!!!</text>
-    </g>
+  <!-- Repo icon + name -->
+  <g transform="translate(22,26) scale(0.6666666666666666)"><path d="M3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm5 4v2h8V7H8zm0 4v2h8v-2H8zm0 4v2h5v-2H8z" fill="#F7DF1E"/></g>
+  <text x="44" y="40" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Arial"
+        font-size="19" font-weight="700" fill="#F9FAFB">AutoBot</text>
 
-    <g>
-      <rect x="18" y="128" width="80" height="18" rx="9" fill="#111827" stroke="#1F2937"/>
-      <text x="28" y="141" font-size="12" fill="#D1D5DB">JavaScript</text>
-    </g>
+  <!-- Description -->
+  <text x="22" y="66" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Arial"
+        font-size="13" fill="#9CA3AF">No description provided.</text>
 
-    <g>
-      <text x="542" y="141" font-size="12" fill="#6B7280" text-anchor="end">github.com/RobasAhmedShah/AutoBot</text>
-    </g>
-  </g>
+  <!-- Divider -->
+  <rect x="22" y="80" width="536" height="1" fill="url(#div)"/>
+
+  <!-- Last commit row -->
+  <g transform="translate(22,88) scale(0.5416666666666666)"><path d="M12 2a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5zm0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zM2 13h8.1a6 6 0 0 0 3.8 0H22v2H2v-2z" fill="#6B7280"/></g>
+  <text x="40" y="100" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Arial"
+        font-size="12" fill="#6B7280">latest commit</text>
+  <text x="558" y="100" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Arial"
+        font-size="12" fill="#4B5563" text-anchor="end">3mo ago</text>
+  <text x="22" y="120" font-family="ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace"
+        font-size="13" font-weight="500" fill="#D1D5DB">oh my repo!!!</text>
+
+  <!-- Divider 2 -->
+  <rect x="22" y="134" width="536" height="1" fill="url(#div)"/>
+
+  <!-- Footer row: language dot + name | stars | forks | updated -->
+  <!-- Language badge -->
+  <circle cx="27" cy="156" r="5" fill="#F7DF1E"/>
+  <text x="37" y="160" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Arial"
+        font-size="12" fill="#D1D5DB">JavaScript</text>
+
+  <!-- Stars -->
+  <g transform="translate(137,146) scale(0.5416666666666666)"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" fill="#FBBF24"/></g>
+  <text x="152" y="160" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Arial"
+        font-size="12" fill="#D1D5DB">1</text>
+
+  <!-- Forks -->
+  <g transform="translate(190,146) scale(0.5416666666666666)"><path d="M6 2a2 2 0 1 1 0 4 2 2 0 0 1 0-4zm12 0a2 2 0 1 1 0 4 2 2 0 0 1 0-4zM6 18a2 2 0 1 1 0 4 2 2 0 0 1 0-4zm0-2a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4V8.83A4 4 0 0 0 18 6a4 4 0 0 0-4-4 4 4 0 0 0-4 4 4 4 0 0 0 2.17 3.56V12a2 2 0 0 1-2 2H6z" fill="#60A5FA"/></g>
+  <text x="205" y="160" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Arial"
+        font-size="12" fill="#D1D5DB">0</text>
+
+  <!-- Updated date (right-aligned) -->
+  <text x="558" y="160" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,Arial"
+        font-size="11" fill="#4B5563" text-anchor="end">updated 4 Mar 2026</text>
 </svg>
