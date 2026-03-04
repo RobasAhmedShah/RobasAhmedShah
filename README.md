@@ -30,10 +30,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=RobasAhmedShah&color=0e75b6&style=flat" alt="profile views" />
 
-**Current focus**
-- TypeScript and Node.js
-- Real time and event driven systems
-- Clean, scalable architecture for product teams
+**Currently working as a Technical lead on**
+- React Native Expo
+- LLM web scrappers for stock trading data for decision based trading.
+- Encore.dev a typescript framework for building distributed systems
+- mobile app optimization for low end devices
+- CI/CD from Local to Framework agnostic Cloud
+- Vercel,Linode(VPS),Local Tunneling
 
 <br clear="right" />
 
