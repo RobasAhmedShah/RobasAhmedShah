@@ -45,9 +45,91 @@ I build full stack applications with a strong backend foundation. I like shippin
 
 ---
 
-## Feature highlights
+## Feature explorer (Blocks)
 
-<img src="./assets/features-map.svg?v=1" width="100%" alt="Blocks feature map" />
+<details open>
+  <summary><b>Wallet connect</b> <sub>walletconnect</sub></summary>
+
+  <p>
+    Outcome: connect wallet, create a session, and enable signing flows.
+  </p>
+
+  <ul>
+    <li><b>Sub features</b>
+      <ul>
+        <li>Session management</li>
+        <li>Connection states and error handling</li>
+      </ul>
+    </li>
+    <li><b>Implementation</b>: <i>pending</i> (will link to commit and file)</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Onboarding</b> <sub>react animated</sub></summary>
+
+  <p>
+    Outcome: smooth onboarding steps with clear progress and motion.
+  </p>
+
+  <ul>
+    <li><b>Sub features</b>
+      <ul>
+        <li>Step based flow</li>
+        <li>Validation and UX states</li>
+      </ul>
+    </li>
+    <li><b>Implementation</b>: <i>pending</i></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Chatbot</b></summary>
+
+  <p>
+    Outcome: guided help inside the app with contextual prompts.
+  </p>
+
+  <ul>
+    <li><b>Implementation</b>: <i>pending</i></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Certificate generation</b></summary>
+
+  <p>
+    Outcome: generate certificates and export for sharing or verification.
+  </p>
+
+  <ul>
+    <li><b>Implementation</b>: <i>pending</i></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Fingerprint</b></summary>
+
+  <p>
+    Outcome: biometric gate for sensitive actions.
+  </p>
+
+  <ul>
+    <li><b>Implementation</b>: <i>pending</i></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Notifications</b></summary>
+
+  <p>
+    Outcome: timely updates and reminders.
+  </p>
+
+  <ul>
+    <li><b>Implementation</b>: <i>pending</i></li>
+  </ul>
+</details>
 
 ---
 
@@ -101,40 +183,6 @@ I build full stack applications with a strong backend foundation. I like shippin
 - Web and mobile experiences
 
 ---
-
-## Feature details
-
-<a id="wallet-connect"></a>
-### Wallet connect
-- Libraries: walletconnect, react animated
-- Outcome: secure wallet session, connect and sign flows
-- Link: pending
-
-<a id="onboarding"></a>
-### Onboarding
-- Libraries: react animated
-- Outcome: smooth onboarding flow with clear step progression
-- Link: pending
-
-<a id="chatbot"></a>
-### Chatbot
-- Outcome: guided support inside the app
-- Link: pending
-
-<a id="certificate-generation"></a>
-### Certificate generation
-- Outcome: generate certificates from user actions and export
-- Link: pending
-
-<a id="fingerprint"></a>
-### Fingerprint
-- Outcome: biometric gate for sensitive actions
-- Link: pending
-
-<a id="notifications"></a>
-### Notifications
-- Outcome: timely updates and reminders
-- Link: pending
 
 ---
 

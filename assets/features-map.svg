@@ -49,7 +49,7 @@
   <line x1="260" y1="290" x2="320" y2="420" class="line"/>
 
   <!-- Left column nodes -->
-  <a href="https://example.com/?feature=wallet-connect">
+  <a href="#wallet-connect">
     <g filter="url(#shadow)">
       <rect x="340" y="110" width="360" height="88" rx="16" class="card"/>
       <text x="362" y="148" class="nodeTitle">Wallet connect</text>
@@ -59,7 +59,7 @@
     </g>
   </a>
 
-  <a href="https://example.com/?feature=onboarding">
+  <a href="#onboarding">
     <g filter="url(#shadow)">
       <rect x="340" y="200" width="360" height="88" rx="16" class="card"/>
       <text x="362" y="238" class="nodeTitle">Onboarding</text>
@@ -69,7 +69,7 @@
     </g>
   </a>
 
-  <a href="https://example.com/?feature=chatbot">
+  <a href="#chatbot">
     <g filter="url(#shadow)">
       <rect x="340" y="290" width="360" height="88" rx="16" class="card"/>
       <text x="362" y="328" class="nodeTitle">Chatbot</text>
@@ -79,7 +79,7 @@
     </g>
   </a>
 
-  <a href="https://example.com/?feature=certificate-generation">
+  <a href="#certificate-generation">
     <g filter="url(#shadow)">
       <rect x="340" y="380" width="360" height="88" rx="16" class="card"/>
       <text x="362" y="418" class="nodeTitle">Certificate generation</text>
@@ -93,7 +93,7 @@
   <line x1="700" y1="155" x2="820" y2="155" class="line"/>
   <line x1="700" y1="245" x2="820" y2="245" class="line"/>
 
-  <a href="https://example.com/?feature=fingerprint">
+  <a href="#fingerprint">
     <g filter="url(#shadow)">
       <rect x="840" y="115" width="320" height="88" rx="16" class="card"/>
       <text x="862" y="153" class="nodeTitle">Fingerprint</text>
@@ -103,7 +103,7 @@
     </g>
   </a>
 
-  <a href="https://example.com/?feature=notifications">
+  <a href="#notifications">
     <g filter="url(#shadow)">
       <rect x="840" y="205" width="320" height="88" rx="16" class="card"/>
       <text x="862" y="243" class="nodeTitle">Notifications</text>
