@@ -39,37 +39,37 @@ I build full stack applications with a strong backend foundation. I like shippin
 
 <p>
   <a href="https://github.com/RobasAhmedShah/AutoBot">
-    <img src="./assets/cards/AutoBot.svg" width="49%" alt="AutoBot" />
+    <img src="./assets/cards/AutoBot.svg?v=d93e4e5f" width="49%" alt="AutoBot" />
   </a>
   <a href="https://github.com/RobasAhmedShah/Tradeit">
-    <img src="./assets/cards/Tradeit.svg" width="49%" alt="Tradeit" />
+    <img src="./assets/cards/Tradeit.svg?v=d93e4e5f" width="49%" alt="Tradeit" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/RobasAhmedShah/Blocks-App">
-    <img src="./assets/cards/Blocks-App.svg" width="49%" alt="Blocks-App" />
+    <img src="./assets/cards/Blocks-App.svg?v=d93e4e5f" width="49%" alt="Blocks-App" />
   </a>
   <a href="https://github.com/RobasAhmedShah/Blocks-Web">
-    <img src="./assets/cards/Blocks-Web.svg" width="49%" alt="Blocks-Web" />
+    <img src="./assets/cards/Blocks-Web.svg?v=d93e4e5f" width="49%" alt="Blocks-Web" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/RobasAhmedShah/BossPizza">
-    <img src="./assets/cards/BossPizza.svg" width="49%" alt="BossPizza" />
+    <img src="./assets/cards/BossPizza.svg?v=d93e4e5f" width="49%" alt="BossPizza" />
   </a>
   <a href="https://github.com/RobasAhmedShah/BossPizzaAdmin">
-    <img src="./assets/cards/BossPizzaAdmin.svg" width="49%" alt="BossPizzaAdmin" />
+    <img src="./assets/cards/BossPizzaAdmin.svg?v=d93e4e5f" width="49%" alt="BossPizzaAdmin" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/RobasAhmedShah/KrynoixTech">
-    <img src="./assets/cards/KrynoixTech.svg" width="49%" alt="KrynoixTech" />
+    <img src="./assets/cards/KrynoixTech.svg?v=d93e4e5f" width="49%" alt="KrynoixTech" />
   </a>
   <a href="https://github.com/RobasAhmedShah/ChaiGrill">
-    <img src="./assets/cards/ChaiGrill.svg" width="49%" alt="ChaiGrill" />
+    <img src="./assets/cards/ChaiGrill.svg?v=d93e4e5f" width="49%" alt="ChaiGrill" />
   </a>
 </p>
 
