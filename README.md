@@ -35,7 +35,7 @@ I build full stack applications with a strong backend foundation. I like shippin
 
 ---
 
-## Pinned
+## Featured
 
 <p>
   <a href="https://github.com/RobasAhmedShah/AutoBot">
@@ -78,44 +78,6 @@ I build full stack applications with a strong backend foundation. I like shippin
 ---
 
 ## Portfolio
-
-### Featured work
-
-<p>
-  <a href="https://github.com/RobasAhmedShah/Tradeit">
-    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/Tradeit" width="420" alt="Tradeit" />
-  </a>
-  <a href="https://github.com/RobasAhmedShah/AutoBot">
-    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/AutoBot" width="420" alt="AutoBot" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/RobasAhmedShah/Blocks-App">
-    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/Blocks-App" width="420" alt="Blocks-App" />
-  </a>
-  <a href="https://github.com/RobasAhmedShah/Blocks-Web">
-    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/Blocks-Web" width="420" alt="Blocks-Web" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/RobasAhmedShah/BossPizza">
-    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/BossPizza" width="420" alt="BossPizza" />
-  </a>
-  <a href="https://github.com/RobasAhmedShah/BossPizzaAdmin">
-    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/BossPizzaAdmin" width="420" alt="BossPizzaAdmin" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/RobasAhmedShah/KrynoixTech">
-    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/KrynoixTech" width="420" alt="KrynoixTech" />
-  </a>
-  <a href="https://github.com/RobasAhmedShah/ChaiGrill">
-    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/ChaiGrill" width="420" alt="ChaiGrill" />
-  </a>
-</p>
 
 ### What I build
 
