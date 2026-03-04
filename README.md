@@ -34,7 +34,7 @@
 
 ---
 
-## About
+## What I do
 
 I build full stack applications with a strong backend foundation. I like shipping features that feel fast, reliable, and easy to maintain.
 
