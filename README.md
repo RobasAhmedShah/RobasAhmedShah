@@ -16,7 +16,7 @@
 
 
 
-**Software Engineer** building product focused applications with TypeScript.
+**Full Stack Engineer** building product focused applications.
 
 <a href="https://www.linkedin.com/in/robas-ahmed-shah-b75491218/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -87,26 +87,7 @@ I build full stack applications with a strong backend foundation. I like shippin
 
 ---
 
-## Portfolio
 
-### What I build
-
-- Product backends and APIs
-- Real time apps and messaging foundations
-- Dashboards and operational tooling
-- Web and mobile experiences
-
----
-
-## Tech snapshot
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,redis,docker,git" alt="Tech stack icons" />
-</p>
-
----
-
-## A small extra
 
 If you are building something interesting and want help shipping it, feel free to reach out.
 
