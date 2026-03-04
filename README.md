@@ -45,6 +45,12 @@ I build full stack applications with a strong backend foundation. I like shippin
 
 ---
 
+## Feature highlights
+
+<img src="./assets/features-map.svg?v=1" width="100%" alt="Blocks feature map" />
+
+---
+
 ## Featured
 
 <p>
@@ -87,7 +93,60 @@ I build full stack applications with a strong backend foundation. I like shippin
 
 ---
 
+### What I build
 
+- Product backends and APIs
+- Real time apps and messaging foundations
+- Dashboards and operational tooling
+- Web and mobile experiences
+
+---
+
+## Feature details
+
+<a id="wallet-connect"></a>
+### Wallet connect
+- Libraries: walletconnect, react animated
+- Outcome: secure wallet session, connect and sign flows
+- Link: pending
+
+<a id="onboarding"></a>
+### Onboarding
+- Libraries: react animated
+- Outcome: smooth onboarding flow with clear step progression
+- Link: pending
+
+<a id="chatbot"></a>
+### Chatbot
+- Outcome: guided support inside the app
+- Link: pending
+
+<a id="certificate-generation"></a>
+### Certificate generation
+- Outcome: generate certificates from user actions and export
+- Link: pending
+
+<a id="fingerprint"></a>
+### Fingerprint
+- Outcome: biometric gate for sensitive actions
+- Link: pending
+
+<a id="notifications"></a>
+### Notifications
+- Outcome: timely updates and reminders
+- Link: pending
+
+---
+
+## Tech snapshot
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,redis,docker,git" alt="Tech stack icons" />
+</p>
+
+---
+
+## A small extra
 
 If you are building something interesting and want help shipping it, feel free to reach out.
 
