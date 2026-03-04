@@ -33,19 +33,19 @@ These days I am mostly working with:
 
 <p>
   <a href="https://github.com/RobasAhmedShah/Blocks-App">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=RobasAhmedShah&repo=Blocks-App&theme=transparent" />
+    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/Blocks-App" width="420" alt="Blocks-App" />
   </a>
   <a href="https://github.com/RobasAhmedShah/GrivEase-backend">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=RobasAhmedShah&repo=GrivEase-backend&theme=transparent" />
+    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/GrivEase-backend" width="420" alt="GrivEase-backend" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/RobasAhmedShah/hmr-dashboard">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=RobasAhmedShah&repo=hmr-dashboard&theme=transparent" />
+    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/hmr-dashboard" width="420" alt="hmr-dashboard" />
   </a>
   <a href="https://github.com/RobasAhmedShah/BloodBase">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=RobasAhmedShah&repo=BloodBase&theme=transparent" />
+    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/BloodBase" width="420" alt="BloodBase" />
   </a>
 </p>
 
@@ -71,12 +71,13 @@ A few things I have been building recently (some are private repos):
 
 ---
 
-## GitHub stats
+## Snapshot
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobasAhmedShah&show_icons=true&hide_title=true&theme=transparent" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobasAhmedShah&layout=compact&theme=transparent" height="150" alt="Top languages" />
-</div>
+A quick look at what I work with day to day:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,redis,docker,git" alt="Tech stack icons" />
+</p>
 
 ---
 
