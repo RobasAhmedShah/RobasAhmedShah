@@ -37,56 +37,43 @@ I build full stack applications with a strong backend foundation. I like shippin
 
 ## Pinned
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/RobasAhmedShah/AutoBot">
-        <img src="https://img.shields.io/badge/AutoBot-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="AutoBot" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/RobasAhmedShah/Tradeit">
-        <img src="https://img.shields.io/badge/Tradeit-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Tradeit" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/RobasAhmedShah/Blocks-App">
-        <img src="https://img.shields.io/badge/Blocks--App-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Blocks-App" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/RobasAhmedShah/Blocks-Web">
-        <img src="https://img.shields.io/badge/Blocks--Web-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Blocks-Web" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/RobasAhmedShah/BossPizza">
-        <img src="https://img.shields.io/badge/BossPizza-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="BossPizza" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/RobasAhmedShah/BossPizzaAdmin">
-        <img src="https://img.shields.io/badge/BossPizzaAdmin-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="BossPizzaAdmin" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/RobasAhmedShah/KrynoixTech">
-        <img src="https://img.shields.io/badge/KrynoixTech-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="KrynoixTech" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/RobasAhmedShah/ChaiGrill">
-        <img src="https://img.shields.io/badge/ChaiGrill-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="ChaiGrill" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/RobasAhmedShah/AutoBot">
+    <img src="./assets/cards/AutoBot.svg" width="49%" alt="AutoBot" />
+  </a>
+  <a href="https://github.com/RobasAhmedShah/Tradeit">
+    <img src="./assets/cards/Tradeit.svg" width="49%" alt="Tradeit" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/RobasAhmedShah/Blocks-App">
+    <img src="./assets/cards/Blocks-App.svg" width="49%" alt="Blocks-App" />
+  </a>
+  <a href="https://github.com/RobasAhmedShah/Blocks-Web">
+    <img src="./assets/cards/Blocks-Web.svg" width="49%" alt="Blocks-Web" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/RobasAhmedShah/BossPizza">
+    <img src="./assets/cards/BossPizza.svg" width="49%" alt="BossPizza" />
+  </a>
+  <a href="https://github.com/RobasAhmedShah/BossPizzaAdmin">
+    <img src="./assets/cards/BossPizzaAdmin.svg" width="49%" alt="BossPizzaAdmin" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/RobasAhmedShah/KrynoixTech">
+    <img src="./assets/cards/KrynoixTech.svg" width="49%" alt="KrynoixTech" />
+  </a>
+  <a href="https://github.com/RobasAhmedShah/ChaiGrill">
+    <img src="./assets/cards/ChaiGrill.svg" width="49%" alt="ChaiGrill" />
+  </a>
+</p>
+
+<sub>These cards update automatically and show repo info, language, and latest commit message.</sub>
 
 ---
 
