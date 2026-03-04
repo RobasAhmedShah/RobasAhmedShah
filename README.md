@@ -1,9 +1,15 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" alt="Hi" />
-  
+  <img src="./assets/night.gif" width="100%" alt="Night view" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" alt="Hi" />
+
   # Robas Ahmed Shah
 
-  <p><b>Software Engineer</b> focused on building clean, scalable products with TypeScript.</p>
+  <p><b>Software Engineer</b> building product focused applications with TypeScript.</p>
 
   <p>
     <a href="https://www.linkedin.com/in/robas-ahmed-shah-b75491218/">LinkedIn</a>
@@ -20,60 +26,65 @@
 
 ## About
 
-I build full stack applications with a strong backend foundation. I enjoy shipping features that feel fast, reliable, and easy to maintain.
+I build full stack applications with a strong backend foundation. I like shipping features that feel fast, reliable, and easy to maintain.
 
-These days I am mostly working with:
+Current focus:
 - TypeScript and Node.js
-- Real time systems and event driven services
-- Product focused frontends
+- Real time and event driven systems
+- Clean, scalable architecture for product teams
 
 ---
 
-## Featured work
+## Portfolio
+
+### Featured work
+
+<p>
+  <a href="https://github.com/RobasAhmedShah/Tradeit">
+    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/Tradeit" width="420" alt="Tradeit" />
+  </a>
+  <a href="https://github.com/RobasAhmedShah/AutoBot">
+    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/AutoBot" width="420" alt="AutoBot" />
+  </a>
+</p>
 
 <p>
   <a href="https://github.com/RobasAhmedShah/Blocks-App">
     <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/Blocks-App" width="420" alt="Blocks-App" />
   </a>
-  <a href="https://github.com/RobasAhmedShah/GrivEase-backend">
-    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/GrivEase-backend" width="420" alt="GrivEase-backend" />
+  <a href="https://github.com/RobasAhmedShah/Blocks-Web">
+    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/Blocks-Web" width="420" alt="Blocks-Web" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/RobasAhmedShah/hmr-dashboard">
-    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/hmr-dashboard" width="420" alt="hmr-dashboard" />
+  <a href="https://github.com/RobasAhmedShah/BossPizza">
+    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/BossPizza" width="420" alt="BossPizza" />
   </a>
-  <a href="https://github.com/RobasAhmedShah/BloodBase">
-    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/BloodBase" width="420" alt="BloodBase" />
+  <a href="https://github.com/RobasAhmedShah/BossPizzaAdmin">
+    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/BossPizzaAdmin" width="420" alt="BossPizzaAdmin" />
   </a>
 </p>
-
-A few things I have been building recently (some are private repos):
-- **Tradeit** (private): TypeScript based product work
-- **Blocks**: real world asset tokenization platform work
-- **Real time chat app starter** (private): realtime messaging foundation in TypeScript
-- **Event driven architecture starter** (private): patterns for services, messaging, and clean boundaries
-
----
-
-## Tech I use
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://github.com/RobasAhmedShah/KrynoixTech">
+    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/KrynoixTech" width="420" alt="KrynoixTech" />
+  </a>
+  <a href="https://github.com/RobasAhmedShah/ChaiGrill">
+    <img src="https://opengraph.githubassets.com/1/RobasAhmedShah/ChaiGrill" width="420" alt="ChaiGrill" />
+  </a>
 </p>
+
+### What I build
+
+- Product backends and APIs
+- Real time apps and messaging foundations
+- Dashboards and operational tooling
+- Web and mobile experiences
 
 ---
 
-## Snapshot
-
-A quick look at what I work with day to day:
+## Tech snapshot
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,redis,docker,git" alt="Tech stack icons" />
