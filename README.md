@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/night.gif" width="100%" alt="Night view" />
+  <img src="./assets/night.gif" width="50%" alt="Night view" />
 </div>
 
 <br />
