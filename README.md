@@ -1,7 +1,10 @@
+
+# Robas Ahmed Shah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26" alt="Hi" />
+<br clear="right" />
+
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="50%" alt="Night view" />
 
 
-# Robas Ahmed Shah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26" alt="Hi" />
 
 **Software Engineer** building product focused applications with TypeScript.
 
