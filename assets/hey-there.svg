@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 140" width="720" height="140" role="img" aria-label="Hey there, I am Robas. A Full Stack Engineer.">
+  <style>
+    .code {
+      font-family: ui-monospace, SFMono-Regular, "Cascadia Code", "Fira Code", Consolas, monospace;
+      font-size: 22px;
+      font-weight: 600;
+    }
+
+    .prefix { fill: #8B95A6; }
+    .string { fill: #F7DF1E; }
+    .role { fill: #E5E7EB; }
+
+    .cursor {
+      fill: #00FF41;
+      animation: blink 0.8s step-end infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+
+    /*
+      Typing animation timeline
+      Total duration: 9s
+      Frames fade in/out using step-end.
+    */
+    .s0, .s1, .s2, .s3, .s4, .s5, .s6, .s7, .s8, .s9, .s10, .s11, .s12, .s13 {
+      opacity: 0;
+      animation-duration: 9s;
+      animation-iteration-count: infinite;
+      animation-timing-function: step-end;
+    }
+
+    .s0  { animation-name: a0; }
+    .s1  { animation-name: a1; }
+    .s2  { animation-name: a2; }
+    .s3  { animation-name: a3; }
+    .s4  { animation-name: a4; }
+    .s5  { animation-name: a5; }
+    .s6  { animation-name: a6; }
+    .s7  { animation-name: a7; }
+    .s8  { animation-name: a8; }
+    .s9  { animation-name: a9; }
+    .s10 { animation-name: a10; }
+    .s11 { animation-name: a11; }
+    .s12 { animation-name: a12; }
+    .s13 { animation-name: a13; }
+
+    /* Hold each frame briefly, then advance */
+    @keyframes a0  { 0%{opacity:1} 6%{opacity:0} 100%{opacity:0} }
+    @keyframes a1  { 0%{opacity:0} 6%{opacity:1} 10%{opacity:0} 100%{opacity:0} }
+    @keyframes a2  { 0%{opacity:0} 10%{opacity:1} 14%{opacity:0} 100%{opacity:0} }
+    @keyframes a3  { 0%{opacity:0} 14%{opacity:1} 18%{opacity:0} 100%{opacity:0} }
+    @keyframes a4  { 0%{opacity:0} 18%{opacity:1} 22%{opacity:0} 100%{opacity:0} }
+    @keyframes a5  { 0%{opacity:0} 22%{opacity:1} 26%{opacity:0} 100%{opacity:0} }
+    @keyframes a6  { 0%{opacity:0} 26%{opacity:1} 30%{opacity:0} 100%{opacity:0} }
+    @keyframes a7  { 0%{opacity:0} 30%{opacity:1} 36%{opacity:0} 100%{opacity:0} }
+    @keyframes a8  { 0%{opacity:0} 36%{opacity:1} 44%{opacity:0} 100%{opacity:0} }
+    @keyframes a9  { 0%{opacity:0} 44%{opacity:1} 52%{opacity:0} 100%{opacity:0} }
+    @keyframes a10 { 0%{opacity:0} 52%{opacity:1} 60%{opacity:0} 100%{opacity:0} }
+    @keyframes a11 { 0%{opacity:0} 60%{opacity:1} 68%{opacity:0} 100%{opacity:0} }
+    @keyframes a12 { 0%{opacity:0} 68%{opacity:1} 76%{opacity:0} 100%{opacity:0} }
+    @keyframes a13 { 0%{opacity:0} 76%{opacity:1} 100%{opacity:1} }
+  </style>
+
+  <!-- Terminal window -->
+  <rect width="720" height="140" rx="14" fill="#0D0F14" stroke="#23272F" stroke-width="2"/>
+
+  <!-- Window controls -->
+  <circle cx="28" cy="28" r="7" fill="#FF5F56"/>
+  <circle cx="52" cy="28" r="7" fill="#FFBD2E"/>
+  <circle cx="76" cy="28" r="7" fill="#27C93F"/>
+
+  <!-- Frames -->
+  <g class="code" xml:space="preserve">
+    <text x="28" y="92" class="s0"><tspan class="prefix">Hey there, I am </tspan><tspan class="cursor">_</tspan></text>
+    <text x="28" y="92" class="s1"><tspan class="prefix">Hey there, I am </tspan><tspan class="string">&quot;</tspan><tspan class="cursor">_</tspan></text>
+    <text x="28" y="92" class="s2"><tspan class="prefix">Hey there, I am </tspan><tspan class="string">&quot;R</tspan><tspan class="cursor">_</tspan></text>
+    <text x="28" y="92" class="s3"><tspan class="prefix">Hey there, I am </tspan><tspan class="string">&quot;Ro</tspan><tspan class="cursor">_</tspan></text>
+    <text x="28" y="92" class="s4"><tspan class="prefix">Hey there, I am </tspan><tspan class="string">&quot;Rob</tspan><tspan class="cursor">_</tspan></text>
+    <text x="28" y="92" class="s5"><tspan class="prefix">Hey there, I am </tspan><tspan class="string">&quot;Roba</tspan><tspan class="cursor">_</tspan></text>
+    <text x="28" y="92" class="s6"><tspan class="prefix">Hey there, I am </tspan><tspan class="string">&quot;Robas</tspan><tspan class="cursor">_</tspan></text>
+    <text x="28" y="92" class="s7"><tspan class="prefix">Hey there, I am </tspan><tspan class="string">&quot;Robas&quot;</tspan><tspan class="cursor">_</tspan></text>
+
+    <!-- Type role after name -->
+    <text x="28" y="92" class="s8"><tspan class="prefix">Hey there, I am </tspan><tspan class="string">&quot;Robas&quot;</tspan><tspan class="role">, A</tspan><tspan class="cursor">_</tspan></text>
+    <text x="28" y="92" class="s9"><tspan class="prefix">Hey there, I am </tspan><tspan class="string">&quot;Robas&quot;</tspan><tspan class="role">, A Full</tspan><tspan class="cursor">_</tspan></text>
+    <text x="28" y="92" class="s10"><tspan class="prefix">Hey there, I am </tspan><tspan class="string">&quot;Robas&quot;</tspan><tspan class="role">, A Full Stack</tspan><tspan class="cursor">_</tspan></text>
+    <text x="28" y="92" class="s11"><tspan class="prefix">Hey there, I am </tspan><tspan class="string">&quot;Robas&quot;</tspan><tspan class="role">, A Full Stack Eng</tspan><tspan class="cursor">_</tspan></text>
+    <text x="28" y="92" class="s12"><tspan class="prefix">Hey there, I am </tspan><tspan class="string">&quot;Robas&quot;</tspan><tspan class="role">, A Full Stack Engineer</tspan><tspan class="cursor">_</tspan></text>
+
+    <!-- Hold final -->
+    <text x="28" y="92" class="s13"><tspan class="prefix">Hey there, I am </tspan><tspan class="string">&quot;Robas&quot;</tspan><tspan class="role">, A Full Stack Engineer</tspan><tspan class="cursor">_</tspan></text>
+  </g>
+</svg>
