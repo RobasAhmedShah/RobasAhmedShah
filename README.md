@@ -1,41 +1,25 @@
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h1>
-        Robas Ahmed Shah
-        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26" alt="Hi" />
-      </h1>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="42%" alt="Night view" />
 
-      <p><b>Software Engineer</b> building product focused applications with TypeScript.</p>
+# Robas Ahmed Shah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26" alt="Hi" />
 
-      <p>
-        <a href="https://www.linkedin.com/in/robas-ahmed-shah-b75491218/">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="mailto:robasahmedshah@gmail.com">
-          <img src="https://img.shields.io/badge/Email-robasahmedshah%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-        <a href="https://github.com/RobasAhmedShah?tab=repositories">
-          <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
-        </a>
-      </p>
+**Software Engineer** building product focused applications with TypeScript.
 
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=RobasAhmedShah&color=0e75b6&style=flat" alt="profile views" />
-      </p>
+<a href="https://www.linkedin.com/in/robas-ahmed-shah-b75491218/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:robasahmedshah@gmail.com">
+  <img src="https://img.shields.io/badge/Email-robasahmedshah%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/RobasAhmedShah?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+</a>
 
-      <p>
-        <b>Current focus</b><br />
-        TypeScript and Node.js<br />
-        Real time and event driven systems<br />
-        Clean, scalable architecture for product teams
-      </p>
-    </td>
-    <td width="40%" align="right" valign="top">
-      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" alt="Night view" />
-    </td>
-  </tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=RobasAhmedShah&color=0e75b6&style=flat" alt="profile views" />
+
+**Current focus**
+- TypeScript and Node.js
+- Real time and event driven systems
+- Clean, scalable architecture for product teams
 
 ---
 
