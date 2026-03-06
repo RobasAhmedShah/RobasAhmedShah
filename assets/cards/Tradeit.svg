@@ -106,13 +106,13 @@
 
     
     <!-- Commit "since" pill -->
-    <rect x="440.5" y="91" width="69.5" height="18" rx="9" fill="#000" filter="url(#buttonShadow)"/>
-    <rect x="440.5" y="91" width="69.5" height="18" rx="9" fill="url(#buttonBase)"/>
-    <rect x="441.5" y="92" width="67.5" height="16" rx="8" fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1"/>
-    <rect x="441.5" y="92" width="67.5" height="16" rx="8" fill="none" stroke="#000000" stroke-opacity="0.4" stroke-width="1"/>
+    <rect x="447" y="91" width="63" height="18" rx="9" fill="#000" filter="url(#buttonShadow)"/>
+    <rect x="447" y="91" width="63" height="18" rx="9" fill="url(#buttonBase)"/>
+    <rect x="448" y="92" width="61" height="16" rx="8" fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1"/>
+    <rect x="448" y="92" width="61" height="16" rx="8" fill="none" stroke="#000000" stroke-opacity="0.4" stroke-width="1"/>
     
-    <text x="475.25" y="104.5" font-family="ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace" font-size="10" font-weight="600" fill="#000000" text-anchor="middle" opacity="0.7">21h ago</text>
-    <text x="475.25" y="103.5" font-family="ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace" font-size="10" font-weight="600" fill="#3178C6" text-anchor="middle">21h ago</text>
+    <text x="478.5" y="104.5" font-family="ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace" font-size="10" font-weight="600" fill="#000000" text-anchor="middle" opacity="0.7">5h ago</text>
+    <text x="478.5" y="103.5" font-family="ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace" font-size="10" font-weight="600" fill="#3178C6" text-anchor="middle">5h ago</text>
     
 
     <!-- Etched Divider -->
@@ -120,8 +120,8 @@
     <rect x="30" y="115" width="480" height="1" fill="#FFFFFF" opacity="0.08"/>
 
     <!-- Commit message -->
-    <text x="32" y="134" font-family="ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace" font-size="13" fill="#000000" opacity="0.9">reduced haptic intensity</text>
-    <text x="32" y="133" font-family="ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace" font-size="13" fill="#A8B4C9">reduced haptic intensity</text>
+    <text x="32" y="134" font-family="ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace" font-size="13" fill="#000000" opacity="0.9">integrated real data to futures ladder and integrated futur…</text>
+    <text x="32" y="133" font-family="ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace" font-size="13" fill="#A8B4C9">integrated real data to futures ladder and integrated futur…</text>
 
 
     <!-- ══════════════════════════════════════ 
