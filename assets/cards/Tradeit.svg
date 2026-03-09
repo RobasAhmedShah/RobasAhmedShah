@@ -111,8 +111,8 @@
     <rect x="448" y="92" width="61" height="16" rx="8" fill="none" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1"/>
     <rect x="448" y="92" width="61" height="16" rx="8" fill="none" stroke="#000000" stroke-opacity="0.4" stroke-width="1"/>
     
-    <text x="478.5" y="104.5" font-family="ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace" font-size="10" font-weight="600" fill="#000000" text-anchor="middle" opacity="0.7">2h ago</text>
-    <text x="478.5" y="103.5" font-family="ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace" font-size="10" font-weight="600" fill="#3178C6" text-anchor="middle">2h ago</text>
+    <text x="478.5" y="104.5" font-family="ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace" font-size="10" font-weight="600" fill="#000000" text-anchor="middle" opacity="0.7">8h ago</text>
+    <text x="478.5" y="103.5" font-family="ui-monospace,'Cascadia Code','Fira Code',Consolas,monospace" font-size="10" font-weight="600" fill="#3178C6" text-anchor="middle">8h ago</text>
     
 
     <!-- Etched Divider -->
